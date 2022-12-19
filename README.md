@@ -1,6 +1,5 @@
 ### Hi there its Abhishek 👋
 
-- 🔭 I’m currently working on DataStudio https://github.com/Abhid14/datastudio
 - 🌱 I’m currently learning Web3 & ReactJS
 - 💬 Ask me about 🌐 Web Development
 - 📫 How to reach me: abhid14@outlook.com
