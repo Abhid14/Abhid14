@@ -3,6 +3,5 @@
 - 🌱 I’m currently learning Web3 & ReactJS
 - 💬 Ask me about 🌐 Web Development
 - 📫 How to reach me: abhid14@outlook.com
-- ⚡ Fun fact: a single Google query uses 1,000 computers in 0.2 seconds to retrieve an 
 answer.
 - 👀 GitHub Skyline https://skyline.github.com/Abhid14/2022
