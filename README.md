@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning Web3 & ReactJS
 - 💬 Ask me about 🌐 Web Development
 - 📫 How to reach me: abhid14@outlook.com
-answer.
 - 👀 GitHub Skyline https://skyline.github.com/Abhid14/2022
