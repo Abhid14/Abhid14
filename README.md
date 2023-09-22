@@ -1,4 +1,4 @@
-## <h1>Hi there its Abhishek <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+# <h1>Hi there its Abhishek <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 
 - 🌱 I’m currently learning ChatGpt & Next.js
 - 💬 Ask me about 🌐 Web Development
