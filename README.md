@@ -2,6 +2,7 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
 
 - 🌱 Building for the `<People />`
+- 🥷 Neo4j Ninja
 - 💬 Ask me about 🌐 Web Development & Design
 - 📫 How to reach me: abhid14@outlook.com
 
